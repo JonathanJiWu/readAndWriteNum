@@ -1,9 +1,9 @@
 #include <iostream>
 
-int ReadNum(int num)
+int ReadNum()
 {
     std::cout << "give a num: \n";
-
+    int num{};
     std::cin >> num;
     return num;
 }

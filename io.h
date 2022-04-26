@@ -1,5 +1,5 @@
 #pragma once
 #include <iostream>
 
-int ReadNum(int num);
+int ReadNum();
 void WriteNum(int num);
